@@ -1,0 +1,17 @@
+{
+    "name": "WiFiAuto",
+    "keywords": "wifi,wi-fi,esp,esp32,espressif32,nodemcu,wemos,arduino",
+    "description": "Library with the code to auto connect to wifi and take credentials.",
+    "version":"0.0.1",
+  "authors":
+  {
+      "name":"Mohan_Kaushik"
+  },
+    "frameworks": "arduino",
+    "platforms": 
+    [
+      "espressif8266",
+      "espressif32"
+    ]
+  }
+  
